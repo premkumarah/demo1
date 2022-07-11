@@ -8,5 +8,8 @@ int main()
 
     printf("*****log3*****\n");
 
+ printf("*****log4*****\n");
+
+  printf("*****log5*****\n");
 
 }

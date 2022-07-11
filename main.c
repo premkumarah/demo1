@@ -14,4 +14,6 @@ int main()
 
    printf("*****log6*****\n");
 
+
+   printf("*****log7*****\n");
 }
